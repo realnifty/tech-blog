@@ -1,8 +1,8 @@
 <article class="card mx-4">
   <div class="card-body">
     <div class="title">
-      <a class="card-title" href="{{post_url}}" target="_blank">{{title}}</a>
-      <span>({{post_text}})</span>
+      <p class="card-title fw-bold">{{title}}</p>
+      <p>{{post_text}}</p>
     </div>
     <div>
       <a class="link-secondary" href="/post/{{id}}">{{comments.length}} {{format_plural "comment" comments.length}}</a>
