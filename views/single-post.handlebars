@@ -1,7 +1,7 @@
 {{> post-info post}}
 
 {{#if loggedIn}}
-<form class="my-2 mx-4">
+<form class="my-2 mx-4 comment-form">
   <div>
     <textarea class="form-control" name="comment-body"></textarea>
   </div>
@@ -16,5 +16,4 @@
 
 {{#if loggedIn}}
 <script src="/javascript/comment.js"></script>
-<script src="/javascript/upvote.js"></script>
 {{/if}}
