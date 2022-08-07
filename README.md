@@ -10,7 +10,7 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 
 ![app screenshot](./images/tech_blog_ss2.png)
 
-[Deployed App](https://realnifty.github.io/tech-blog/)
+[Deployed App](https://realnifty-tech-blog.herokuapp.com/)
 
 ## Table of Contents
 
