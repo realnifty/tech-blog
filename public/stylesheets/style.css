@@ -9,3 +9,9 @@ body, html {
   font-family: sans-serif;
   color: #333;
 }
+
+.option:hover {
+  cursor: pointer !important;
+  color: dimgrey !important;
+  transition: 0.2s;
+}
